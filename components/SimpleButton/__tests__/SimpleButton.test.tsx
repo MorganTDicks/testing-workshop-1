@@ -4,5 +4,5 @@ import { render, fireEvent } from '@testing-library/react';
 import Button from '@/components/SimpleButton/simple-button';
 
 describe("Writing simple tests", ()=>{
-   
+  //tests go here
 })
